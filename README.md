@@ -1,16 +1,66 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Evelyn Xia</h1>
 
-<!--
-**YEETTTTTTT/YEETTTTTTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>
+    Information Systems student at NUS · building real products across AI, automation, and business
+  </em>
+</p>
 
-Here are some ideas to get you started:
+<hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Intro -->
+<ul>
+  <li>🌱 Currently learning <strong>Java Spring Boot</strong>, <strong>AWS</strong>, and <strong>Three.js</strong></li>
+  <li>🧠 Working on <strong>Tailorly.AI</strong> (AI-powered product)</li>
+  <li>✈️ Co-running my family travel agency (operations, digital, growth)</li>
+  <li>🎨 I draw as a hobby — been drawing since kindergarten :D</li>
+  <img src="https://res.cloudinary.com/dztrim03h/image/upload/v1767795108/Image_20260107221105_156_103_xzsgpa.jpg" />
+  <li>📫 Reach me at <a href="mailto:yilin02xia@gmail.com">yilin02xia@gmail.com</a></li>
+  <li>🌐 Website: <a href="https://evelynx.dev/" target="_blank">evelynx.dev</a></li>
+</ul>
+
+<br />
+
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/yilin-xia-2654361a8/" target="_blank">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="35"
+      height="35"
+    />
+  </a>
+</p>
+
+<br />
+
+<!-- Languages & Tools -->
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</p>
+
+<br />
+
+<!-- Optional GitHub Stats -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark"
+    alt="GitHub stats"
+  />
+</p>
