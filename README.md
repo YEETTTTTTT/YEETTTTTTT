@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently self-learning **Java Spring Boot**, **AWS**, and **Three.js**
 - 🧠 Working on <a href="https://github.com/YEETTTTTTT/Tailorly" target="_blank"><strong>Tailorly.AI</strong></a> as a side project
-- ✈️ Co-running my family travel agency (operations, digital, growth)
+- ✈️ Co-running my family travel agency
 - 🎨 I draw as a hobby, been drawing since kindergarten! :D
 
 <br />
