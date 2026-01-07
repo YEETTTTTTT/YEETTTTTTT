@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>
-    Information Systems student at NUS · building real products across AI, automation, and business
+    Information Systems graduate from NUS · passionate about building products across AI, automation, and business
   </em>
 </p>
 
@@ -11,11 +11,11 @@
 
 <!-- Intro -->
 <ul>
-  <li>🌱 Currently learning <strong>Java Spring Boot</strong>, <strong>AWS</strong>, and <strong>Three.js</strong></li>
+  <li>🌱 I'm currently self-learning <strong>Java Spring Boot</strong>, <strong>AWS</strong>, and <strong>Three.js</strong></li>
   <li>🧠 Working on <strong>Tailorly.AI</strong> (AI-powered product)</li>
   <li>✈️ Co-running my family travel agency (operations, digital, growth)</li>
-  <li>🎨 I draw as a hobby — been drawing since kindergarten :D</li>
-  <img src="https://res.cloudinary.com/dztrim03h/image/upload/v1767795108/Image_20260107221105_156_103_xzsgpa.jpg" />
+  <li>🎨 I draw as a hobby, been drawing since kindergarten :D</li>
+  <img src="https://res.cloudinary.com/dztrim03h/image/upload/v1767795108/Image_20260107221105_156_103_xzsgpa.jpg" width="100"/>
   <li>📫 Reach me at <a href="mailto:yilin02xia@gmail.com">yilin02xia@gmail.com</a></li>
   <li>🌐 Website: <a href="https://evelynx.dev/" target="_blank">evelynx.dev</a></li>
 </ul>
@@ -23,7 +23,7 @@
 <br />
 
 <!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yilin-xia-2654361a8/" target="_blank">
     <img
@@ -53,14 +53,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-</p>
-
-<br />
-
-<!-- Optional GitHub Stats -->
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark"
-    alt="GitHub stats"
-  />
 </p>
