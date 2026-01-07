@@ -14,19 +14,15 @@
   <tr>
     <td width="60%" valign="top">
 
-<ul>
-  <li>🌱 I’m currently self-learning <strong>Java Spring Boot</strong>, <strong>AWS</strong>, and <strong>Three.js</strong></li>
-  <li>🧠 Working on <a href="https://github.com/YEETTTTTTT/Tailorly" target="_blank"><strong>Tailorly.AI</strong></a> as a side project</li>
-  <li>✈️ Co-running my family travel agency (operations, digital, growth)</li>
-  <li>🎨 I draw as a hobby — been drawing since kindergarten</li>
-</ul>
+- 🌱 I’m currently self-learning **Java Spring Boot**, **AWS**, and **Three.js**
+- 🧠 Working on <a href="https://github.com/YEETTTTTTT/Tailorly" target="_blank"><strong>Tailorly.AI</strong></a> as a side project
+- ✈️ Co-running my family travel agency (operations, digital, growth)
+- 🎨 I draw as a hobby — been drawing since kindergarten
 
 <br />
 
-<ul>
-  <li>📫 Reach me at <a href="mailto:yilin02xia@gmail.com">yilin02xia@gmail.com</a></li>
-  <li>🌐 Website: <a href="https://evelynx.dev" target="_blank">evelynx.dev</a></li>
-</ul>
+- 📫 Reach me at <a href="mailto:yilin02xia@gmail.com">yilin02xia@gmail.com</a>  
+- 🌐 Website: <a href="https://evelynx.dev/" target="_blank">evelynx.dev</a>
 
     </td>
 
@@ -38,13 +34,8 @@
   style="border-radius: 12px;"
 />
 
-<br />
-<em>Personal artwork (digital illustration)</em>
-
-    </td>
   </tr>
 </table>
-
 
 <br />
 
