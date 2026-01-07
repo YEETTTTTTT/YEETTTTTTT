@@ -17,7 +17,7 @@
 - 🌱 I’m currently self-learning **Java Spring Boot**, **AWS**, and **Three.js**
 - 🧠 Working on <a href="https://github.com/YEETTTTTTT/Tailorly" target="_blank"><strong>Tailorly.AI</strong></a> as a side project
 - ✈️ Co-running my family travel agency (operations, digital, growth)
-- 🎨 I draw as a hobby — been drawing since kindergarten
+- 🎨 I draw as a hobby, been drawing since kindergarten! :D
 
 <br />
 
@@ -40,7 +40,7 @@
 <br />
 
 <!-- Connect with me -->
-<h3 align="left">Let’s connect</h3>
+<h3 align="left">Let’s connect!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yilin-xia-2654361a8/" target="_blank">
     <img
