@@ -18,17 +18,9 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEETTTTTTT&layout=compact&theme=tokyonight&hide_border=true"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=YEETTTTTTT&theme=tokyo-night&hide_border=true"
   />
 </p>
-
 
 <hr />
 
