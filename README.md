@@ -13,6 +13,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/YEETTTTTTT/YEETTTTTTT/blob/main/profile-3d-contrib/profile-night-green.svg" />
+</p>
+
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEETTTTTTT&layout=compact&theme=tokyonight&hide_border=true"
     height="160"
