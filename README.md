@@ -20,8 +20,6 @@
   />
 </p>
 
-
-
 <hr />
 
 <!-- About + Art (Side-by-side) -->
