@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/YEETTTTTTT/YEETTTTTTT/blob/main/profile-3d-contrib/profile-night-green.svg" />
+  <img src="https://github.com/YEETTTTTTT/YEETTTTTTT/blob/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
-
 
 <p align="center">
   <img
