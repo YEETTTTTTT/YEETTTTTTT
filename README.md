@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Evelyn Xia</h1>
 
 <p align="center">
@@ -9,20 +8,23 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api
-      ?username=YEETTTTTTT
-      &show_icons=true
-      &hide_title=true
-      &hide_rank=true
-      &hide_border=true
-      &theme=tokyonight"
+    src="https://komarev.com/ghpvc/?username=YEETTTTTTT&label=Profile%20views&color=0e75b6&style=flat"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YEETTTTTTT&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YEETTTTTTT&layout=compact&theme=tokyonight&hide_border=true"
     height="160"
   />
 </p>
 
 <hr />
 
-<!-- About + Art (Side-by-side) -->
 <table>
   <tr>
     <td width="60%" valign="top">
@@ -52,7 +54,6 @@
 
 <br />
 
-<!-- Connect with me -->
 <h3 align="left">Let’s connect!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/yilin-xia-2654361a8/" target="_blank">
@@ -67,7 +68,6 @@
 
 <br />
 
-<!-- Languages & Tools -->
 <h3 align="left">Languages and Tools</h3>
 
 <p align="left">
